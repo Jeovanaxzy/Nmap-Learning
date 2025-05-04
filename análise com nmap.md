@@ -1,4 +1,4 @@
-Nessa análise que fiz, eu utilizei o endereço de dois host. primeiramente eu fiz um Scan da porta 1-1000 em apenas um dos host.O Nmap retornou que o host estava UP, porém todas as portas de 1-1000 estavam fechadas.
+Nessa análise que fiz, eu utilizei o endereço de dois host,  com o objetivo de definir as principais diferenças entre eles. primeiramente eu fiz um Scan da porta 1-1000 em apenas um dos host.O Nmap retornou que o host estava UP, porém todas as portas de 1-1000 estavam fechadas.
 
 Depois eu fiz um novo Scan e decidi utilizar o endereço de dois host.
 
@@ -27,3 +27,11 @@ Segundo scan (portas 1-65365 em dois hosts):
 - O Nmap detectou o endereço MAC do host (5E:8B:A2:65:3A:FF), mas não conseguiu identificar o fabricante (Unknown).
 
 ![Image](https://github.com/user-attachments/assets/491dc386-aca6-42bf-adb5-780aec6c5913) 
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Diferenças entre os dois hosts:
+
+- O primeiro host tem uma porta aberta (porta 80) e parece estar executando um serviço web, enquanto o segundo host tem todas as portas fechadas.
+- O Nmap conseguiu detectar o nome do host (Ubuntu) no primeiro host, mas não conseguiu detectar o sistema operacional no segundo host.
+
+Essas diferenças podem indicar que os dois hosts têm configurações difeentes, e o segundo host parece ter uma configuração mais restrita.
