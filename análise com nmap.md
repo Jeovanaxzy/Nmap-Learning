@@ -12,7 +12,6 @@ Primeiro scan (portas 1-1000 em um host):
 - O host estava ativo (Host is up).
 - Todas as portas de 1 a 1000 estavam fechadas.
 
-![Image](https://github.com/user-attachments/assets/6564af33-f530-4cd5-a43c-84bcb27a6d12)
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Segundo scan (portas 1-65365 em dois hosts):
