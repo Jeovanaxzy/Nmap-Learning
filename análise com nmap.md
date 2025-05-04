@@ -26,4 +26,4 @@ Segundo scan (portas 1-65365 em dois hosts):
 - Todas as portas de 1 a 65365 estavam fechadas.
 - O Nmap detectou o endereço MAC do host (5E:8B:A2:65:3A:FF), mas não conseguiu identificar o fabricante (Unknown).
 
-![Image](https://github.com/user-attachments/assets/491dc386-aca6-42bf-adb5-780aec6c5913)
+![Image](https://github.com/user-attachments/assets/491dc386-aca6-42bf-adb5-780aec6c5913) 
