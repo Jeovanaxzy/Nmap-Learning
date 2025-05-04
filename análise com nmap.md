@@ -1,4 +1,4 @@
-Nessa análise que fiz, eu utilizei o endereço de dois host,  com o objetivo de definir as principais diferenças entre eles. primeiramente eu fiz um Scan da porta 1-1000 em apenas um dos host.O Nmap retornou que o host estava UP, porém todas as portas de 1-1000 estavam fechadas.
+Nessa análise que fiz, eu utilizei o endereço de dois host,  com o objetivo de definir as principais diferenças entre eles. primeiramente eu fiz um Scan da porta 1-1000 em apenas um dos host. O Nmap retornou que o host estava UP, porém todas as portas de 1-1000 estavam fechadas.
 
 Depois eu fiz um novo Scan e decidi utilizar o endereço de dois host.
 
