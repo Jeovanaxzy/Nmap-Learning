@@ -34,4 +34,4 @@ Diferenças entre os dois hosts:
 - O primeiro host tem uma porta aberta (porta 80) e parece estar executando um serviço web, enquanto o segundo host tem todas as portas fechadas.
 - O Nmap conseguiu detectar o nome do host (Ubuntu) no primeiro host, mas não conseguiu detectar o sistema operacional no segundo host.
 
-Essas diferenças podem indicar que os dois hosts têm configurações difeentes, e o segundo host parece ter uma configuração mais restrita.
+  Com essas informações, cheguei a conclusão que, os dois hosts têm configurações diferentes, e o segundo host parece ter uma configuração mais restrita.
